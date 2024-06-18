@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://fast.com/](https://fast.com/)
+- 👨‍💻 All of my projects are available at [santhosh-portfolio](https://fast.com/)
 
 - 💬 Ask me about **MERN Stack,Cyber Security**
 
 - 📫 How to reach me **santhoshcheemala6303@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oBDa-P33vzGoYKes9aBJz0Sq7Vcord2z/view?usp=drive_link](https://drive.google.com/file/d/1oBDa-P33vzGoYKes9aBJz0Sq7Vcord2z/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A5Xq4deoAwIBx4v7S1qvGigwDYNY2TC6/view)
 
 - ⚡ Fun fact **I'm into ethical hacking. Let's secure our chat!**
 
