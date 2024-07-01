@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [santhosh-portfolio](https://fast.com/)
+- 👨‍💻 All of my projects are available at [santhosh-portfolio](https://portfolio-two-rho-38.vercel.app/)
 
 - 💬 Ask me about **MERN Stack,Cyber Security**
 
