@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **santhoshcheemala6303@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A5Xq4deoAwIBx4v7S1qvGigwDYNY2TC6/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jp59miHf5A52ujIA9opN-4WFgu-ET_sE/view)
 
 - ⚡ Fun fact **I'm into ethical hacking. Let's secure our chat!**
 
