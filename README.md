@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/KsW8jKY/gifanimate-1.gif)](https://portfolio-two-rho-38.vercel.app/)
+[![MasterHead]()](https://portfolio-two-rho-38.vercel.app/)
 <h1 align="center">Hi 👋, I'm Santhosh Cheemala</h1>
 <h3 align="center">A passionate Researcher from India</h3>
 <br />
