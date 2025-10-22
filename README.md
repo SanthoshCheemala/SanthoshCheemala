@@ -1,7 +1,6 @@
 [![MasterHead](https://i.ibb.co/KsW8jKY/gifanimate-1.gif)](https://portfolio-two-rho-38.vercel.app/)
 <h1 align="center">Hi 👋, I'm Santhosh Cheemala</h1>
 <h3 align="center">A passionate Researcher from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 <br />
 <p align="left">
 <a href="https://linkedin.com/in/santhosh-cheemala-93baa3257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh-cheemala-93baa3257" height="30" width="40" /></a>
@@ -15,6 +14,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhoshcheemala&show_icons=true&locale=en&layout=compact" alt="santhoshcheemala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhoshcheemala&show_icons=true&locale=en" alt="santhoshcheemala" /></p>
+
 
 
 
