@@ -1,4 +1,4 @@
-[![MasterHead]()](https://portfolio-two-rho-38.vercel.app/)
+
 <h1 align="center">Hi 👋, I'm Santhosh Cheemala</h1>
 <h3 align="center">A passionate Researcher from India</h3>
 <br />
@@ -14,6 +14,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhoshcheemala&show_icons=true&locale=en&layout=compact" alt="santhoshcheemala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhoshcheemala&show_icons=true&locale=en" alt="santhoshcheemala" /></p>
+
 
 
 
